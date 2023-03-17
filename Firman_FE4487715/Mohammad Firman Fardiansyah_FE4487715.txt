@@ -75,3 +75,5 @@ IF (user selects a book to return) {
     UPDATE book's availability status //by system
     DISPLAY history borrowing books from the user
 }
+
+END PROGRAM
